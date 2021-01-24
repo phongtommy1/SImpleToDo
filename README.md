@@ -33,6 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+
 A significant challenge I face while building this app was try to add a strik-through-text feature to my app when I remove an item from my list. I thought it was
 a simple one liner and a little modification to my onLongClicked function but it turns out that wasn't the case. When I add a strike-through text I was painting 
 over that data field. Thus, making it not so easy to remove. After hours of debugging I realized I could just combine strike-through-text with the remove feature.
